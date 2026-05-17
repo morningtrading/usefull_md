@@ -1,1 +1,1 @@
-just usefull rules for celan coding
+just usefull rules for cleaner coding by AI
